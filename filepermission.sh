@@ -2,7 +2,7 @@
 
 # Check if the user provided an argument
 if [ $# -eq 0 ]; then
-    echo "Usage: $0 <file_or_directory_path>"
+    echo "Usage: $0 /home/ubuntu"
     exit 1
 fi
 
